@@ -6,7 +6,7 @@ tags:
   - 排序
 categories:
   - 排序算法
-  -  AcWing
+  - AcWing
 date: 2020-05-08 20:03:00
 ---
 # 快速排序
